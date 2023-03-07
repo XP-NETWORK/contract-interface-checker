@@ -6,6 +6,7 @@ A Solidity contract checking the supported interfaces of an unverified contract.
 |Chain|Address|
 |:-:|:-:|
 |Velas|0xaB9eD7b9734471249255B4d969B32995015116d9|
+|Harmony|0x90d38996B210D45bDF2FD54d091C6061dff0dA9F|
 
 ## Usage
 
